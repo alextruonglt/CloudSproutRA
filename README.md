@@ -73,7 +73,7 @@ Without automated scanning or IaC enforcement, a developer could create a public
 |---|---|---|
 | Executive Summary | Board and C-suite narrative of findings, top risks, and recommended actions | [View (Markdown)](./executive-summary.md) |
 | Executive Summary (PDF) | Formatted PDF version | [View (Google Drive)](https://drive.google.com/file/d/1S5vItaKQ0N3oLmB_dGa0TXUPoyW9d0TS/view?usp=sharing) |
-| Risk Register Workbook | Full risk register, asset inventory, scoring methodology, NIST CSF gap analysis, risk justification log, and dashboard | [Download (Excel)](/cloudsprout-risk-register.xlsx) |
+| Risk Register Workbook | Full risk register, asset inventory, scoring methodology, NIST CSF gap analysis, risk justification log, and dashboard | [Download (Excel)](/Alex_CloudSprout_Risk_Register.xlsx) |
 
 ---
 
