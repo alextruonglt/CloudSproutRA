@@ -5,8 +5,8 @@
 
 ---
 
-**Prepared by:** Alex Truong
-**Assessment Date:** June 2025
+**Prepared by:** Alex Truong  
+**Assessment Date:** June 2025  
 **Document Status:** Mock Assessment — Portfolio Artifact
 
 ---
